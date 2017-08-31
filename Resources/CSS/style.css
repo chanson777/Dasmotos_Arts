@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica;
+}
+h1 {
+  background-image: url("../CSS/Images/Patterns.jpg");
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+}
+h1, h2 {
+  font-weight: bold;
+}
+.banners {
+  font-size: 32px;
+  color: white;
+}
+#brushes {
+  background-color: mediumspringgreen;
+}
+#frames {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: skyblue;
+}
+.blue {
+  color: blue;
+}
